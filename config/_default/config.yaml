@@ -4,6 +4,7 @@ paginate: 10
 theme: hugo-clarity
 disqusShortname: ''
 DefaultContentLanguage: en
+highlightjsTheme: "Night Owl"
 taxonomies:
   category: categories
   series: series
